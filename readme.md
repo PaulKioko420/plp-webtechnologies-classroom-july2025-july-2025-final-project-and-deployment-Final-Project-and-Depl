@@ -47,6 +47,5 @@ The website has **4 main pages**:
 - **CSS3** → Responsive layout (Flexbox & Grid), animations, and styling.  
 - **JavaScript** → Mobile navigation toggle, form validation, and dynamic interactivity.  
 
----
 
-## 📂 File Organization
+
