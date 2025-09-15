@@ -6,7 +6,7 @@ This project was created as part of my **final assignment** to demonstrate plann
 ---
 
 ## 🌐 Live Demo
-👉 [View Live Website](https://github.com/PLP-WebTechnologies/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl)  
+👉 [View Live Website]([https://github.com/PLP-WebTechnologies/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl](https://paulkioko420.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/))  
 
 ---
 
@@ -46,6 +46,7 @@ The website has **4 main pages**:
 - **HTML5** → Semantic structure of pages.  
 - **CSS3** → Responsive layout (Flexbox & Grid), animations, and styling.  
 - **JavaScript** → Mobile navigation toggle, form validation, and dynamic interactivity.  
+
 
 
 
